@@ -3,3 +3,8 @@
 ################################################################################
 
 /Sources/Logger/bin
+/Sources/Logger/AppSystemLog
+/Sources/Logger/obj
+*.user
+*.suo
+/Sources/.vs/config
